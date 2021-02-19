@@ -43,3 +43,4 @@ export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
 export EDITOR="/Applications/TextEdit.app/Contents/MacOS/TextEdit"
 export EDITOR="/Applications/TextEdit.app/Contents/MacOS/TextEdit"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
